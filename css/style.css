@@ -1,0 +1,15 @@
+html {
+	background: lightgray;
+}
+
+h1 {
+	font-family: calibri;
+	color: blueviolet;
+	font-style: italic;
+	text-align: center;
+}
+
+img {
+	border-radius: 20px;
+	width: 300px;
+}
